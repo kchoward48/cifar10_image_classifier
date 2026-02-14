@@ -36,7 +36,7 @@ Perform image classification on the standard CIFAR10 dataset, using a less tradi
     - Part 1, all outputs of the 'image_classifier_project_part_1.html' converted notebook-to-HTML file are kept from the final run before submission.
     - Part 2, the following is a captured image of the the output of the final training epoch, the checkpoint location and details, the final validation and test metrics of the model, and the top-k (default is 5) most probable classes with probabilities based on inference of the stock image stored at './udacity_ai_programming_project_2/istockphoto-1273007054-612x612.jpg':
 
-![Command Line Application Final Output](./cifar10_image_classifier/final_command_line_output.png)
+![Command Line Application Final Output](./final_command_line_output.png)
 
 ## Part 1 - Development Notebook
 
